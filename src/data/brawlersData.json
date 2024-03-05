@@ -1,0 +1,704 @@
+[
+  {
+    "id": "comun1",
+    "nombre": "shelly",
+    "rareza": "inicial",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9xMkFyZ243TVFHczRXTFJxcWkzOC5wbmcifQ:supercell:S9xx3FpY39u6WTUJFiw0CNLCP-3wsfUkja4y6kHGixc?width=2400"
+  },
+  {
+    "id": "rara1",
+    "nombre": "nita",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9QWlBDNWUxWUtWczV0am05ZDM3Ui5wbmcifQ:supercell:m_v02Gq4IxFSHonF5rlNegXU7m07W7QhEheOtavw6hY?width=2400"
+  },
+  {
+    "id": "rara2",
+    "nombre": "colt",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9paGZOM2k5NlE4RUJXTUc5d0hqUi5wbmcifQ:supercell:ZbqmpXG7XGvf3IJkWR8fTdU_oM9O2pwpWnWGV8cuoEQ?width=2400"
+  },
+  {
+    "id": "rara3",
+    "nombre": "bull",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9ISDhQdFg5QTNVUVZ5N2J2dmNNRC5wbmcifQ:supercell:Tg-Q1Vf_-qYZL6hzMkn973IMTnAZEH39PK1u7PnYix4?width=2400"
+  },
+  {
+    "id": "rara4",
+    "nombre": "brock",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9LOWhHekNGeU5zdHhMSE41dkNNeC5wbmcifQ:supercell:Y_7TQxJ0Xtcngr56i3GAla0LgWN8xLbDO8f9yFWZOYk?width=2400"
+  },
+  {
+    "id": "rara5",
+    "nombre": "el primo",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9ERVpaOUFXZFlEN2NFQmhITmRtWi5wbmcifQ:supercell:MTtEt4KkGi8Dpea04hhwTtqfp0rN8J1QKm1T-49QsaA?width=2400"
+  },
+  {
+    "id": "rara6",
+    "nombre": "barley",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "artilleria",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9xdjRhNTJGb0Q2eGV2SDNEbVJtOS5wbmcifQ:supercell:LWr6ljGAJ1topr3m92G7kkbHcRDC6qdivlb3P72lK0k?width=2400"
+  },
+  {
+    "id": "rara7",
+    "nombre": "poco",
+    "rareza": "especial",
+    "ano": 2017,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9Ic0haREVYbmMxTlhuRUY4NWJRdy5wbmcifQ:supercell:nGt09JTMCYxXUIpzqEZfnrXxq3Hf26xxB8jSf8YK4Nk?width=2400"
+  },
+  {
+    "id": "rara8",
+    "nombre": "rosa",
+    "rareza": "especial",
+    "ano": 2019,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9icFRzMU5BV2Z0Y2FlS3R0OUVTSi5wbmcifQ:supercell:Mck98G-WyZysch_nfaCNWGAKHSUKYfw6l4wXRCwCHlo?width=2400"
+  },
+  {
+    "id": "super1",
+    "nombre": "jessie",
+    "rareza": "super especial",
+    "ano": 2017,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9YVFRyb2RMRFNWUVZyamhZYnMyWi5wbmcifQ:supercell:pburrq4Ogl4xjJUhMxjchLusvysl4MUCcwyhaJ2DFM0?width=2400"
+  },
+  {
+    "id": "super2",
+    "nombre": "dynamike",
+    "rareza": "super especial",
+    "ano": 2017,
+    "tipo": "artilleria",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9MenlyZ1hZM3djb2FucnRRWEozTC5wbmcifQ:supercell:AbOLu-S99WXm1FkbdAqfY2oTyJYqYIahVGNXRYZbunA?width=2400"
+  },
+  {
+    "id": "super3",
+    "nombre": "tick",
+    "rareza": "super especial",
+    "ano": 2019,
+    "tipo": "artilleria",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9iUmE2UVFRMzFqcW5zeWN2Z3l3Vy5wbmcifQ:supercell:2hXluwLVaMWtPPOdVTGsBbTATnoOsH0VceosRYqKKRw?width=2400"
+  },
+  {
+    "id": "super4",
+    "nombre": "8bit",
+    "rareza": "super especial",
+    "ano": 2019,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9tRDF4R1JYMUVQYU5UR2VLdFpDWC5wbmcifQ:supercell:8BjN4lcPQ-O-fXkM6fe1UyXdnXzd8JbAWB5jlvI6k3g?width=2400"
+  },
+  {
+    "id": "super5",
+    "nombre": "rico",
+    "rareza": "super especial",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9RdUFpczhaN1FWY3lDTHg3ejFSNy5wbmcifQ:supercell:En3oeHEIXoMtmaLgUO9RebPKaiOA-oy1u7Fz5Payvu0?width=2400"
+  },
+  {
+    "id": "super6",
+    "nombre": "darryl",
+    "rareza": "super especial",
+    "ano": 2017,
+    "tipo": "tanque",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9ZeTkyVmlOQjNWVXI2YUN6cTRXYS5wbmcifQ:supercell:JYNVwuFjaWEfxd8_qHRE87fmAeMjUlwSaZTQlWaDuB0?width=2400"
+  },
+  {
+    "id": "super7",
+    "nombre": "penny",
+    "rareza": "super especial",
+    "ano": 2018,
+    "tipo": "artilleria",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9IeDMxcEFGTHpuOUg0UGpmVm9KTS5wbmcifQ:supercell:U7X9f0hdPgbcgQqo_95RM8k4TFh9_JYlD0Fhu12E-LM?width=2400"
+  },
+  {
+    "id": "super8",
+    "nombre": "carl",
+    "rareza": "super especial",
+    "ano": 2019,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC92aVpnSHBQMTR4cmNBNjlURVRkVS5wbmcifQ:supercell:Vr7XMYqGRwFnETRBayO31dwhoBLrdu45A0k00NrHcOM?width=2400"
+  },
+  {
+    "id": "super9",
+    "nombre": "jacky",
+    "rareza": "super especial",
+    "ano": 2020,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9KN2tqSnFlVVlUQXpBbjlQTmJHdi5wbmcifQ:supercell:BT5nz4UViTtMKC6FGq2U6kJHXxX7Ku-Y8gyQq06qpn0?width=2400"
+  },
+  {
+    "id": "super10",
+    "nombre": "gus",
+    "rareza": "super especial",
+    "ano": 2022,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9KeVB5ajZlekRwRjdYcXVBeXpzTC5wbmcifQ:supercell:UM5CMPj82c1_cDQHSNee6N1dsxT4vUaT0uuB7XHnKqg?width=2400"
+  },
+  {
+    "id": "epico1",
+    "nombre": "bo",
+    "rareza": "epico",
+    "ano": 2017,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC80bVdYNW9Nb1ROM1NnNERXV1NOMS5wbmcifQ:supercell:1u8vQ68RNA12HF9-aB36vFDrrS1A_hH7NUpYZ1bL1O0?width=2400"
+  },
+  {
+    "id": "epico2",
+    "nombre": "emz",
+    "rareza": "epico",
+    "ano": 2019,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9hNG9mYldWemtpRGJIZXdxb1dXaS5wbmcifQ:supercell:lhfyvDUWUXr2v92bIH04VgcsKkQoE1i4vJ-nTLEESkM?width=2400"
+  },
+  {
+    "id": "epico3",
+    "nombre": "stu",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "artilleria",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9UZWc2R3pMTHBIcXRoRk55VkRHdC5wbmcifQ:supercell:-V6y8k4YsWGU2tOpqw3gF5KdDFoNMn9ovD1GFE1NHnk?width=2400"
+  },
+  {
+    "id": "epico4",
+    "nombre": "piper",
+    "rareza": "epico",
+    "ano": 2017,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9DY0RxZ3FUWGl2VkhBZ2FoQnpDNi5wbmcifQ:supercell:KgG0D3S7zOedyvDOxh6vahO5VZVcp6HLKloCleV02LU?width=2400"
+  },
+  {
+    "id": "epico5",
+    "nombre": "pam",
+    "rareza": "epico",
+    "ano": 2017,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9wb2lhVE5TQzU4dUJ5QlRpd3J3Ui5wbmcifQ:supercell:00jA8CMwAgxbzwSJulZnGsou8-lXuvii4CVl-2xgk2s?width=2400"
+  },
+  {
+    "id": "epico6",
+    "nombre": "frank",
+    "rareza": "epico",
+    "ano": 2018,
+    "tipo": "tanque",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC91QmFoUmFOMzY3ZUthQ0dlaG5hQy5wbmcifQ:supercell:-LfUUgbCeNl7LjGe4iiXWT-_VHzYWCFfi7T-IfW5W9E?width=2400"
+  },
+  {
+    "id": "epico7",
+    "nombre": "bibi",
+    "rareza": "epico",
+    "ano": 2019,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9ZcXp6MkFqYUpvMWJYZ1d2WUNKUi5wbmcifQ:supercell:otxhEHFDI-BOxkJm6ho9Sq5jYf4GNAre_RzR02ecLnk?width=2400"
+  },
+  {
+    "id": "epico8",
+    "nombre": "bea",
+    "rareza": "epico",
+    "ano": 2019,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9pNWpFRmdZS3VuZjF4dU1ldm1jdS5wbmcifQ:supercell:kBZ6S73RUxOdr5vS6XZnOvW9Vz1jE330UvyOOw5Y7jY?width=2400"
+  },
+  {
+    "id": "epico9",
+    "nombre": "angelo",
+    "rareza": "epico",
+    "ano": 2024,
+    "tipo": "tiro de elite",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9zV1A0Unl0SjhKTFJpTFlQakFRaC5wbmcifQ:supercell:yvBqhpW6y9QVWrPHp58I5bB5rlswTBsFD5PhUHDnD14?width=2400"
+  },
+  {
+    "id": "epico10",
+    "nombre": "nani",
+    "rareza": "epico",
+    "ano": 2020,
+    "tipo": "tiro de elite",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9aQjFtQXZMM3lFQ3hxVHBDRWpWSi5wbmcifQ:supercell:YiPqUSY5uA2zzK9OoUnpuCKYFf0la7r7H9EGarG6xNI?width=2400"
+  },
+  {
+    "id": "epico11",
+    "nombre": "edgar",
+    "rareza": "epico",
+    "ano": 2020,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9Hd2VkZ2ZRR3dCeUpwdHVGQ3k3cy5wbmcifQ:supercell:_620vh6srPjQqQUHw7aKYeyqOF_tNEdGmrZ3I9Rd1m8?width=2400"
+  },
+  {
+    "id": "epico12",
+    "nombre": "griff",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC85YTluZFdxb3RETm9ucVFRY0Zwei5wbmcifQ:supercell:O_VHhbp6yaKcwBV_jsQHMP5O8B-cYezl0yni5JnK_1Y?width=2400"
+  },
+  {
+    "id": "epico13",
+    "nombre": "grom",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "artilleria",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9nRExnMjRpaTNqQVNyMlF4eFQ3cy5wbmcifQ:supercell:8FXpuXroy681_YH01U8qsSgJMFWd7cLs2_IZheQ8kvM?width=2400"
+  },
+  {
+    "id": "epico14",
+    "nombre": "bonnie",
+    "rareza": "epico",
+    "ano": 2022,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9BdWpGenlIS2I2UnBqTWdpeWJHZS5wbmcifQ:supercell:fN_6giGSrpFt6KCpstM2Ra09E2Ou6nsLnDOHYQesGAE?width=2400"
+  },
+  {
+    "id": "epico15",
+    "nombre": "gale",
+    "rareza": "epico",
+    "ano": 2020,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9YVDg5ZGdDOGFHZnZxb1VyN1RiQi5wbmcifQ:supercell:3tjzdg-5AX9H6dMrisQ5WXyjOeiuGx3dYzDj1AWsrxo?width=2400"
+  },
+  {
+    "id": "epico16",
+    "nombre": "colette",
+    "rareza": "epico",
+    "ano": 2020,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9EY3FnN3JDcWkzeE0zcVBqdlVlUS5wbmcifQ:supercell:ke4fBC5-kHRCNACPz3Xr3c_SOfNg6S46PGlFGFSKn7g?width=2400"
+  },
+  {
+    "id": "epico17",
+    "nombre": "belle",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC8yNzdISmU0bmN0TjUzYlJEb29Ody5wbmcifQ:supercell:aP75RK9iVx0VYu-a0v0dAAF-HZjrPbdP_EUI6pZaZ20?width=2400"
+  },
+  {
+    "id": "epico18",
+    "nombre": "ash",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "tanque",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9SdldMdkFLa2pkRURVVUpKTEZ1Ti5wbmcifQ:supercell:WmLx-Y2WEXa9tRb7likCOqv7I4b7Phi3Dz6SisrjleU?width=2400"
+  },
+  {
+    "id": "epico19",
+    "nombre": "lola",
+    "rareza": "epico",
+    "ano": 2021,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9aSnNnN3dqaGtYUDlncjhSRVhlWC5wbmcifQ:supercell:nmmtG78JYuENmZ0I545ySxl04f09__3XDvePdpOtlEc?width=2400"
+  },
+  {
+    "id": "epico20",
+    "nombre": "sam",
+    "rareza": "epico",
+    "ano": 2022,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9CSHRyR2FtQXlCcUVSdVRiY0xkTi5wbmcifQ:supercell:9IFOdzaMXtBoCu05jHAkccsHgG9cxRDtY-oZC7IJ8o4?width=2400"
+  },
+  {
+    "id": "epico21",
+    "nombre": "mandy",
+    "rareza": "epico",
+    "ano": 2023,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9GaUdZWmZ4dU1KRXZrSkFuUzhtUS5wbmcifQ:supercell:mQE4zptYPMjdwt4jvik_WED4t7aWrkq-3EBTgjNIeac?width=2400"
+  },
+  {
+    "id": "epico22",
+    "nombre": "maisie",
+    "rareza": "epico",
+    "ano": 2023,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9IRFJ0UkR2V285b1dqcUJTZ0UyNi5wbmcifQ:supercell:604pamEa9sgQKPb3x4tVNdNkPy1xk7ejwoBdRfksWrE?width=2400"
+  },
+  {
+    "id": "epico23",
+    "nombre": "hank",
+    "rareza": "epico",
+    "ano": 2023,
+    "tipo": "tanque",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9iRUtnSHhhTlMxWXFrNDVBcmFrYy5wbmcifQ:supercell:Q5kr3wTztE8Q59cuydBY5pZxGdp4ofLJlHQ_Ap8UJ1w?width=2400"
+  },
+  {
+    "id": "epico24",
+    "nombre": "pearl",
+    "rareza": "epico",
+    "ano": 2023,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC94YWoyWVRUMjM3RDNQUHRyNFlQeS5wbmcifQ:supercell:r4l5auW4h0mEQ0cK2cKa_6YaLmFFmLcFK8WWwU6TF0w?width=2400"
+  },
+  {
+    "id": "epico25",
+    "nombre": "larry y lawrie",
+    "rareza": "epico",
+    "ano": 2024,
+    "tipo": "artilleria",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9mRXdTOW9tekcxUm04Z3B5WFVIRC5wbmcifQ:supercell:jVL6nbX0va-QSthiKvH5CRkIkJzmSvy6BS6a9S4s71g?width=2400"
+  },
+  {
+    "id": "mitico1",
+    "nombre": "mortis",
+    "rareza": "mitico",
+    "ano": 2017,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9WdHVyUzlWRlV2ZDNXTXlzN3hSMy5wbmcifQ:supercell:YIzQGDMFwyUMXrLloBoc49mklTaK-1oMLyTPzQjaTys?width=2400"
+  },
+  {
+    "id": "mitico2",
+    "nombre": "tara",
+    "rareza": "mitico",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC95S1h5YzgzMXRlWHVGa1JGaVRrNS5wbmcifQ:supercell:5z9oRLApH7FhwdjS-B8Vhf31s7BcOC9zNCGS35XeSPs?width=2400"
+  },
+  {
+    "id": "mitico3",
+    "nombre": "gene",
+    "rareza": "mitico",
+    "ano": 2019,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9pVEhRSnVvYVEzNGFZejZWYmQ0by5wbmcifQ:supercell:ioHB5SOJr-VXwtWT5aZVyydFK-pG0K7aN2uS-tDWF7I?width=2400"
+  },
+  {
+    "id": "mitico4",
+    "nombre": "max",
+    "rareza": "mitico",
+    "ano": 2019,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC95RzMzVFNaM0U4OUQxVGdEYWt6OS5wbmcifQ:supercell:zRmRn7eR20Mf0_ZGKC90MlySaValShYQk-J4AnLbOt8?width=2400"
+  },
+  {
+    "id": "mitico5",
+    "nombre": "mr.P",
+    "rareza": "mitico",
+    "ano": 2019,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9GNFF2aGRzZ1BBTG5OcWRNSktnQi5wbmcifQ:supercell:CXb_SEAk5DQa_jOpodZWkTA3Gddi0d3O70XcQRKDOmM?width=2400"
+  },
+  {
+    "id": "mitico6",
+    "nombre": "sprout",
+    "rareza": "mitico",
+    "ano": 2020,
+    "tipo": "artilleria",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC94cTc0THZMdGpxZ1NGRmNVTXNXcy5wbmcifQ:supercell:DDBK2TpScaF7KO5IuMZ1gT8F0K5Icz93_I5VQYcSZwY?width=2400"
+  },
+  {
+    "id": "mitico7",
+    "nombre": "byron",
+    "rareza": "mitico",
+    "ano": 2020,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC81cGc5d3hGUThLaWIzY0o5QVlMTi5wbmcifQ:supercell:OFKk_oKIzTzK0giSs21yAYTFDRiNy_Q7O5vAjTb5_h8?width=2400"
+  },
+  {
+    "id": "mitico8",
+    "nombre": "squeak",
+    "rareza": "mitico",
+    "ano": 2021,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9yRFl2UEhvV3hzUEVoTllmdmpCcC5wbmcifQ:supercell:k3L0e5wuhRr3zqHKtNNnh-ESadW0rOvyOikSPc5gZc0?width=2400"
+  },
+  {
+    "id": "mitico9",
+    "nombre": "lou",
+    "rareza": "mitico",
+    "ano": 2020,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC8yQkx6UFhnN3lnaVA2OHBkMVJXby5wbmcifQ:supercell:ZX64YFFDhfofR2dVi2yBiOU9GHRDMrQ7LCyJp8QHtmI?width=2400"
+  },
+  {
+    "id": "mitico10",
+    "nombre": "ruffs",
+    "rareza": "mitico",
+    "ano": 2021,
+    "tipo": "apoyo",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9IRXNSUndwUVg2cHpSYWZOekhqTS5wbmcifQ:supercell:6kB_mWQNBGSaRi_ZD9hshi0l8eqOBVPG7tUikfpU8xs?width=2400"
+  },
+  {
+    "id": "mitico11",
+    "nombre": "buzz",
+    "rareza": "mitico",
+    "ano": 2021,
+    "tipo": "asesino",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9uNTNDNmZCQzMxUjU1NmZCVXRjZi5wbmcifQ:supercell:9texYcH-jc8ztv6QNTZ4y692_UL81qLZd-EEjw7WdPU?width=2400"
+  },
+  {
+    "id": "mitico12",
+    "nombre": "fang",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9peDdmTlFRM2pwWTNoa3Y3ZjVMeC5wbmcifQ:supercell:VjskOXOi_s8d9dWRfhyBjopX6u4puVpgXbe_NoeUZOE?width=2400"
+  },
+  {
+    "id": "mitico13",
+    "nombre": "eve",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC96cnpKZnlpSFBIUlZWd2hkY1dxTi5wbmcifQ:supercell:IDPgGoff6DOkieMlPgdK84tIjBvJWZdE5nrYcfqyZo8?width=2400"
+  },
+  {
+    "id": "mitico14",
+    "nombre": "janet",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "tiro de elite",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC83SHNUY2o1R2RhaW1KWHBEYXk4aC5wbmcifQ:supercell:16ijyYiDS4aAem9BGaYRI6ktge9Wla9msvobFFR0PC4?width=2400"
+  },
+  {
+    "id": "mitico15",
+    "nombre": "otis",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9zUzFmRmVXSjhhWXBiZVRyNUY2US5wbmcifQ:supercell:GOBm8pSortFljUXsWq5Kgd-zWGbU6I0K663l3G6HtMo?width=2400"
+  },
+  {
+    "id": "mitico16",
+    "nombre": "buster",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC8yQ1VNZnpQaEFCTlNmck1LZDVCZi5wbmcifQ:supercell:bfBFbdXFVAhWtVn8Ey7idED4XdNbqdfse5i-WttJP08?width=2400"
+  },
+  {
+    "id": "mitico17",
+    "nombre": "gray",
+    "rareza": "mitico",
+    "ano": 2022,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC93NWRZaHAxcTQ5RkRpajRRaUI0Ri5wbmcifQ:supercell:ugidxcyBHC9pQaxn_WhGVZudWuifMYcSlVbJytOkJXc?width=2400"
+  },
+  {
+    "id": "mitico18",
+    "nombre": "r-t",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC83aEx3WTRYaHRIUDFkZ29rYk1QbS5wbmcifQ:supercell:TEe7lIokh9jWPxoqAFthWO6HUP75E3piKBPGzCNUBn0?width=2400"
+  },
+  {
+    "id": "mitico19",
+    "nombre": "willow",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9LaXFLNUtpQUZDTTNxVzZjUXAyVy5wbmcifQ:supercell:MSOB5S5ZKs30zmj_UWCyGPkcHtaAziBj64Vdt39k4IQ?width=2400"
+  },
+  {
+    "id": "mitico20",
+    "nombre": "doug",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "apoyo",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9BRXhUZlFrZDhpYmExQzdWSm1WRy5wbmcifQ:supercell:CvXackfEIWJ_pwZ5Y71XqqHh3Sdv_lAzuMb3XSIwqME?width=2400"
+  },
+  {
+    "id": "mitico21",
+    "nombre": "chuck",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC90Mzk5M05xQXVYWnRBREdQVGtoSC5wbmcifQ:supercell:W4Q7Z8mCudKtZLmxA1lSlQBIwY6CgrLhc_otVcOALR4?width=2400"
+  },
+  {
+    "id": "mitico22",
+    "nombre": "charlie",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9oeDdGQjkzaHdxRVBxVDh4S2t1ZC5wbmcifQ:supercell:zO4uFE_g0V9gkRPQRbMhjByLlPbRP5adm-eykGsjtVc?width=2400"
+  },
+  {
+    "id": "mitico23",
+    "nombre": "mico",
+    "rareza": "mitico",
+    "ano": 2023,
+    "tipo": "asesino",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9jNHQ2czVIRlpweFhqQVQ0cDJHeS5wbmcifQ:supercell:co25q_dR-MhfyMIUsysAzfG-j5bqS6kj0-Esjn2kIXM?width=2400"
+  },
+  {
+    "id": "mitico24",
+    "nombre": "melodie",
+    "rareza": "mitico",
+    "ano": 2024,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9qYUwyQTU2cXV2Z3FTZFdOWHRCRi5wbmcifQ:supercell:wItvGZZ0YoRbi_AIw6gzac-xPqXf0UdOd1HOIOnKUwk?width=2400"
+  },
+  {
+    "id": "legendario1",
+    "nombre": "spike",
+    "rareza": "legendario",
+    "ano": 2017,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9pOUVjQjRWTHFFTTg1S1QyZzJXTS5wbmcifQ:supercell:WGNpTVfeOKM4iH3UPgSqBZpBJiwgUbxCr0Fp4Bsx2Bs?width=2400"
+  },
+  {
+    "id": "legendario2",
+    "nombre": "crow",
+    "rareza": "legendario",
+    "ano": 2017,
+    "tipo": "asesino",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9wNFIycmU4NEJiOHlKbnpzWTZGdS5wbmcifQ:supercell:6znMGJWN1FZdkFnN9SqmdV3Nl3GZyTeYDKSCI_owsDs?width=2400"
+  },
+  {
+    "id": "legendario3",
+    "nombre": "leon",
+    "rareza": "legendario",
+    "ano": 2018,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9LbURuaTRNek53cjZTMWVWVkdOZS5wbmcifQ:supercell:LoFM6CLDBzBKBlElBbkCbNkd2QemHYoCFYTQu5Sq8ug?width=2400"
+  },
+  {
+    "id": "legendario4",
+    "nombre": "sandy",
+    "rareza": "legendario",
+    "ano": 2019,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9HU0JGenlKQ0M1TnFOeHBGYkdEaS5wbmcifQ:supercell:1AN9UbhsOFkTr1WG5OG_upwtNsdj7xSP8X1URtCNSiw?width=2400"
+  },
+  {
+    "id": "legendario5",
+    "nombre": "amber",
+    "rareza": "legendario",
+    "ano": 2020,
+    "tipo": "control",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9ZQlU0Tm1vemJ1NUNjcFNkZ1Mxdy5wbmcifQ:supercell:4bT2cooxDhUDixjNxwHqDwXMYXH1ZfUPe51759qqq9w?width=2400"
+  },
+  {
+    "id": "legendario6",
+    "nombre": "meg",
+    "rareza": "legendario",
+    "ano": 2021,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9hWGR1OHgyRXJQa2NySHMydWNrdC5wbmcifQ:supercell:BAPV7LDYppZLqaTVD9AtrAVD8sw65w0ZOiTTXhU_WdE?width=2400"
+  },
+  {
+    "id": "legendario7",
+    "nombre": "surge",
+    "rareza": "legendario",
+    "ano": 2020,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9EY1lxSDRiRlU0R2JDVGNTOENTNy5wbmcifQ:supercell:npWPsxIVLzReu9HqZqskDgK04tEkb9G-PGduOt8NoVU?width=2400"
+  },
+  {
+    "id": "legendario8",
+    "nombre": "chester",
+    "rareza": "legendario",
+    "ano": 2022,
+    "tipo": "destructor",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9KcXc4cVdwWVc4V1NlNjM1Mk5WWS5wbmcifQ:supercell:nfHJjphlccO7JBj2rhExyU037hmrp-BGe251djgZv1E?width=2400"
+  },
+  {
+    "id": "legendario9",
+    "nombre": "cordelius",
+    "rareza": "legendario",
+    "ano": 2023,
+    "tipo": "asesino",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC84Y0FoOUhab29oaFhITnZNcmpBMi5wbmcifQ:supercell:gGry8GerrbuSTOenvI2NVdKwc_KTO6M7sgBcrck745Y?width=2400"
+  },
+  {
+    "id": "legendario10",
+    "nombre": "kit",
+    "rareza": "legendario",
+    "ano": 2023,
+    "tipo": "apoyo",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9iVXhzTEZjM1Zqamt0aFp5TVBOZC5wbmcifQ:supercell:eWkcSXaiA-oauQfpfHTsCQyiqZDW8fSnIPI49Ytl1nc?width=2400"
+  }
+]
