@@ -10,10 +10,7 @@ type collectionPageProps = {
 };
 
 export default function CollectionPage(props: collectionPageProps) {
-  const [brawlersSaved, setBrawlersSaved, removeBrawlers] = useLocalStorage(
-    "brawlers",
-    []
-  );
+  const [brawlersSaved] = useLocalStorage("brawlers", []);
 
   const handleShowMenu = () => {
     props.setShowCollection(false);

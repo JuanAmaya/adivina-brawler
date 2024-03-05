@@ -30,10 +30,7 @@ const variantsHeader = {
 
 export default function EndGamePage(props: endGameProps) {
   const [bgColor, setBgColor] = useState("bg-rareInitial");
-  const [brawlersSaved, setBrawlersSaved, removeBrawlers] = useLocalStorage(
-    "brawlers",
-    []
-  );
+  const [brawlersSaved, setBrawlersSaved] = useLocalStorage("brawlers", []);
 
   const handlePlayAgain = () => {
     props.setShowEndGame(false);

@@ -6,11 +6,6 @@ type counterProps = {
   bgColor: string;
 };
 
-const variantsCCircle = {
-  visible: { opacity: 1 },
-  hidden: { opacity: 0 },
-};
-
 const variantsCounting = {
   visible: { opacity: 1, y: 0 },
   hidden: { opacity: 0, y: -30 },

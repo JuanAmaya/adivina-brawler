@@ -39,6 +39,7 @@ export default function GamePage(props: gamePageProps) {
       (brawler) => brawler.nombre === brawlerName
     );
     setSelectedBrawler(chosenBrawler);
+    console.log(selectedBrawler);
 
     const newArray = selectedBrawlerArr;
     newArray?.unshift(chosenBrawler!);
