@@ -44,7 +44,6 @@ export default function GamePage(props: gamePageProps) {
     const newArray = selectedBrawlerArr;
     newArray?.unshift(chosenBrawler!);
     setSelectedBrawlerArr(newArray);
-    console.log("res", answerBrawler);
 
     if (chosenBrawler?.nombre === answerBrawler?.nombre) {
       props.setEndData({
