@@ -58,7 +58,10 @@ export default function GamePage(props: gamePageProps) {
       props.setShowEndGame(true);
     }
 
-    if (selectedBrawlerArr.length === TRIES) {
+    if (
+      selectedBrawlerArr.length === TRIES &&
+      chosenBrawler?.nombre !== answerBrawler?.nombre
+    ) {
       props.setEndData({
         winner: false,
         countNum: selectedBrawlerArr.length,
