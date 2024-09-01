@@ -396,6 +396,15 @@
     "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9mRXdTOW9tekcxUm04Z3B5WFVIRC5wbmcifQ:supercell:jVL6nbX0va-QSthiKvH5CRkIkJzmSvy6BS6a9S4s71g?width=2400"
   },
   {
+    "id": "epico26",
+    "nombre": "berry",
+    "rareza": "epico",
+    "ano": 2024,
+    "tipo": "apoyo",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC91RVBWZ2YxNXVTM1NnY205U2ZDRC5wbmcifQ:supercell:rpWbqIDSSZeBv95QgBZCbsGiY-osBD4VTMTpi0PBWIA?width=2400"
+  },
+  {
     "id": "mitico1",
     "nombre": "mortis",
     "rareza": "mitico",
@@ -612,6 +621,33 @@
     "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9qYUwyQTU2cXV2Z3FTZFdOWHRCRi5wbmcifQ:supercell:wItvGZZ0YoRbi_AIw6gzac-xPqXf0UdOd1HOIOnKUwk?width=2400"
   },
   {
+    "id": "mitico25",
+    "nombre": "lily",
+    "rareza": "mitico",
+    "ano": 2024,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9pVHljM1hOVVhYM1YxbTlkWVd5bi5wbmcifQ:supercell:jXEChjqo15hzs6OeuUKmjo8gn89eSXaGlX-GerkviTU?width=2400"
+  },
+  {
+    "id": "mitico26",
+    "nombre": "clancy",
+    "rareza": "mitico",
+    "ano": 2024,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9IVUZrZ3FtSEtHRjlLa3Q3OUFIYy5wbmcifQ:supercell:E8lTdiAXF6EzMzYJ1jSp7SNcARrm_jI6BgFByv6jXcs?width=2400"
+  },
+  {
+    "id": "mitico27",
+    "nombre": "moe",
+    "rareza": "mitico",
+    "ano": 2024,
+    "tipo": "destructor",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9LTmdKQ2t4SEppaTVOUVlHZkxUaC5wbmcifQ:supercell:0MKfMu5V6Eae1v9mYb8yTV_Sm-gN6aVzhr8202m7_bM?width=2400"
+  },
+  {
     "id": "legendario1",
     "nombre": "spike",
     "rareza": "legendario",
@@ -700,5 +736,23 @@
     "tipo": "apoyo",
     "humano": false,
     "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9iVXhzTEZjM1Zqamt0aFp5TVBOZC5wbmcifQ:supercell:eWkcSXaiA-oauQfpfHTsCQyiqZDW8fSnIPI49Ytl1nc?width=2400"
+  },
+  {
+    "id": "legendario11",
+    "nombre": "draco",
+    "rareza": "legendario",
+    "ano": 2024,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9TbTljcWhWUzlxRzhLcUV4VlEzRi5wbmcifQ:supercell:RaqD5F7J0r4MpzJ4a5pa2eYR8w4CUwKRRQzUWYs_dVg?width=2400"
+  },
+  {
+    "id": "legendario12",
+    "nombre": "kenji",
+    "rareza": "legendario",
+    "ano": 2024,
+    "tipo": "asesino",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9CUXNQNm9Ic0pzM1M0RVpGaVp2Ri5wbmcifQ:supercell:G4dG13eYiOUOa3TX3k13EnkQRi43d78pemRJEgvKzB8?width=2400"
   }
 ]
