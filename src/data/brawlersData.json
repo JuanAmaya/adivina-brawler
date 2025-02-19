@@ -405,6 +405,24 @@
     "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC91RVBWZ2YxNXVTM1NnY205U2ZDRC5wbmcifQ:supercell:rpWbqIDSSZeBv95QgBZCbsGiY-osBD4VTMTpi0PBWIA?width=2400"
   },
   {
+    "id": "epico27",
+    "nombre": "shade",
+    "rareza": "epico",
+    "ano": 2024,
+    "tipo": "asesino",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9uY0FreExkTUdOQ3h1YUhZNDNveS5wbmcifQ:supercell:aCjD3bU5hLc5pImfR3d_wCOeWvX0ejI9m8ZnCAOkl94?width=2400"
+  },
+  {
+    "id": "epico28",
+    "nombre": "meeple",
+    "rareza": "epico",
+    "ano": 2025,
+    "tipo": "control",
+    "humano": false,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9nRWpzeXFIRHFpbzRER2hmVTFLSC5wbmcifQ:supercell:8PO9bHZ0BnGte7kYHbVTVv2o7hq2ttjYTUBzB0CGh3U?width=2400"
+  },
+  {
     "id": "mitico1",
     "nombre": "mortis",
     "rareza": "mitico",
@@ -646,6 +664,24 @@
     "tipo": "destructor",
     "humano": false,
     "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9LTmdKQ2t4SEppaTVOUVlHZkxUaC5wbmcifQ:supercell:0MKfMu5V6Eae1v9mYb8yTV_Sm-gN6aVzhr8202m7_bM?width=2400"
+  },
+  {
+    "id": "mitico28",
+    "nombre": "juju",
+    "rareza": "mitico",
+    "ano": 2024,
+    "tipo": "artilleria",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC85U01wUFE1V29kMjFUVHZxWEIyaS5wbmcifQ:supercell:4twPcg55Vz10JHoWCgpiHv86eOfI9YxUZ2Y1Qb2Lxm0?width=2400"
+  },
+  {
+    "id": "mitico29",
+    "nombre": "ollie",
+    "rareza": "mitico",
+    "ano": 2025,
+    "tipo": "tanque",
+    "humano": true,
+    "imgPin": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC94SFJETlpwb1gyNVZQdzV4S3V0MS5wbmcifQ:supercell:NRIuqIXez1PDySjAq9UZ24xlS0aWqQEgkDwaH1Zms8Y?width=2400"
   },
   {
     "id": "legendario1",
